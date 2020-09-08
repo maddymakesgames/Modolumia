@@ -1,0 +1,6 @@
+target/
+.env
+log/
+Cargo.lock
+package-lock.json
+.vscode/
